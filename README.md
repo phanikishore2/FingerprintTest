@@ -5,6 +5,8 @@ Requires Java8
 
 java -jar FingerprintTest.jar /Users/phanikishoredavineni/Downloads/InputFingerprintData.tsv 
 
+Download jar from this repository. https://github.com/phanikishore2/FingerprintTest/blob/main/out/artifacts/FingerprintTest_jar/FingerprintTest.jar
+
 
 Should output 
 
